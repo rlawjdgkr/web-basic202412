@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
 
-@WebServlet("/chap02/dancer/show-list")
+@WebServlet("/chap02/dancer/show-list.jsp")
 public class DancerListServlet extends HttpServlet {
 
     @Override
